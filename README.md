@@ -2,7 +2,9 @@
 
 
 O objetivo desse repositório é para organizar meus estudos em Governança  de Dados . Ele contém diferentes Tópicos dentro dessa temática .
-Os Tópicos  estão divididos em diferentes categorias, como : 
+Os Tópicos  estão divididos em diferentes categorias, como :
+
+
 • Introdução à governança de dados
 
 • A importância da governança de dados
