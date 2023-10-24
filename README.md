@@ -30,5 +30,5 @@ Público
 
  ### Nota
 
-  - Eu acredito que é importante manter seus estudos organizados para que você possa facilmente encontrar as informações de que precisa. Este repositório me ajuda a fazer isso, e eu espero que ele seja útil para outras pessoas que estão aprendendo sobre o universo de Governança dos Dados.
+  - Eu acredito que é importante manter seus estudos organizados para que você possa facilmente encontrar as informações de que precisa. Este repositório me ajuda a fazer isso, e eu espero que ele seja útil para outras pessoas que estão aprendendo sobre o universo da Governança dos Dados.
 
